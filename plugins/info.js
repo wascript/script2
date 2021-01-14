@@ -16,13 +16,13 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ Dan kawan yang lain :)
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ SmartFren: 0882-3543-5804
-╠➥ Tsel: 0813-5730-2007
-╠➥ Tsel: 0815-1586-0089
+╠➥ SmartFren
+╠➥ Tsel: 082283732154
+╠➥ Tsel: 082283732154
 ║
-║>Request? Wa.me/6288235435804
+║>Request? Wa.me/62822843844980
 ║
-╠═〘 NfQ BOT 〙 ═
+╠═〘 Fast BOT 〙 ═
 `.trim(), m)
 }
 handler.command = /^(info)$/i
