@@ -32,7 +32,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖 [NFQ BOT] 🤖
+🤖 [FAST BOT] 🤖
 Created Bye: @Drawl Nag
 
 Hi, ${name} 👋
@@ -103,9 +103,9 @@ Cara Tambah XP:
 ╠➥ Github: https://github.com/Arya274/Arya-Bot
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : NFQ BOT
+╠➥ Name : Fast BOT
 ╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? Wa.me/6288235435804
+╠➥ Request? Wa.me/628822843844980
 ╠═════
 ║ Advanced:
 ║  > return m
